@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Desta Melaku (@Desta21m)
+# 👋 Hi there, I’m Desta Equar (@Desta21m)
 
 - 👨‍💻 I’m a final-year Software Engineering student with hands-on experience in **Spring Boot**, **React**, **MySQL/PostgreSQL**, and **Docker**.
 - 🚀 I'm passionate about building **clean**, **scalable**, and **user-focused** web applications that solve real-world problems.
@@ -19,7 +19,7 @@
   - Integration of PostgreSQL/MySQL with Java-based systems
 - 📫 Reach me via:
   - LinkedIn: [linkedin.com/in/desta21m](https://linkedin.com/in/desta21m)
-  - Email: desta21m@gmail.com
+  - Email: equardesta21@gmail.com
 - ⚡ Fun fact: I enjoy turning vague ideas into complete working systems — from planning and entity modeling to deployment.
 
 <!---
